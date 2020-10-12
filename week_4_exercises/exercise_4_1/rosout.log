@@ -1,0 +1,11 @@
+
+
+1602537209.543796235  Node Startup
+1602537246.642988242 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] wrestling
+1602537247.143087029 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] navigation
+1602537247.643060843 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] soccer
+1602537248.143279967 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] racecar
+1602537248.643695089 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] computer
+1602537249.143696905 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] bee
+1602537249.644433169 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] 
+1602537250.144622247 INFO /your_node [/home/vagrant/RoboJackets/catkin_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:6(String))] [topics: /rosout] testing testing 123

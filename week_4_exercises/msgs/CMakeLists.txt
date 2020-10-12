@@ -1,6 +1,6 @@
 add_message_files(
         FILES
-        # <===== HERE =======
+        CustomMessage.msg
 )
 
 generate_messages(
