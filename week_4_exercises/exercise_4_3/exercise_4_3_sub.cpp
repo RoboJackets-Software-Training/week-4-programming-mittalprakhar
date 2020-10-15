@@ -21,7 +21,6 @@ int main(int argc, char** argv) {
 
   ros::Subscriber custom_sub = nh.subscribe("cosine_sine", 1, customCallback);
 
-  ros::spin();
   ros::Rate rate(20);
   while(ros::ok()) {
     std_msgs::Float64 pub_msg;
